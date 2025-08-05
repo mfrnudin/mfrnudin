@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**mfrnudin/mfrnudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 💫 About Me:
+💫 About Me:
 Halo! 👋 Saya adalah seorang calon developer. Saat ini, saya sedang aktif belajar dan mengeksplorasi dunia [ Python,CSS,Html ].<br><br>Di GitHub ini, kamu akan menemukan proyek-proyek sederhana, tugas-tugas latihan, dan eksperimen kode yang saya buat selama proses belajar. Saya percaya bahwa cara terbaik untuk belajar adalah dengan mencoba, dan saya senang membagikan perjalanan saya di sini.<br><br>    🌱 Sedang belajar: "Python,Css,Html"<br><br>    📫 Hubungi saya di: "hangood@uti.ac.id"<br><br>    ⚡ Fakta menarik: "Suka ngoding sambil dengerin musik rap "
 
 

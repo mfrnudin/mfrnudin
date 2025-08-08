@@ -23,37 +23,38 @@
 <div align="center">
 </div>
 
-### ♟️ Catur 3D Neon
+### ♟️ Main Catur
 
-Bangun dan mainkan catur 3D bergaya neon (glow) dengan papan rounded dan kontrol kamera yang halus.
+<!-- BEGIN CHESS BOARD -->
+This is an open chess game in the README. It's your turn to play! Move a white piece.
 
-![three.js](https://img.shields.io/badge/three.js-0.161-0ff?style=for-the-badge&logo=three.js&logoColor=white&labelColor=111)
-![chess.js](https://img.shields.io/badge/chess.js-1.0.0-ff00ff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=111)
-![webgl](https://img.shields.io/badge/WebGL-2.0-00ffaa?style=for-the-badge&logo=webgl&logoColor=white&labelColor=111)
 
-- **Fitur**:
-  - Glow neon pada papan dan highlight target langkah
-  - Bidak drag‑and‑drop + highlight langkah legal (chess.js)
-  - Kamera orbit halus (putar, zoom) dengan OrbitControls
-  - Tombol Reset, indikator giliran, promosi pion otomatis → Queen
+|     |  |  |  |  |  |  |  |  |     |
+|-----|---|---|---|---|---|---|---|---|-----|
+| **** | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ | **** |
+| **** | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | **** |
+| **** | · | · | · | · | · | · | · | · | **** |
+| **** | · | · | · | · | · | · | · | · | **** |
+| **** | · | · | · | · | · | · | · | · | **** |
+| **** | · | · | · | · | · | · | · | · | **** |
+| **** | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | **** |
+| **** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ | **** |
+|     | **** | **** | **** | **** | **** | **** | **** | **** |     |
 
-- **Kontrol (singkat)**:
-  - Seret bidak untuk memindahkan
-  - Atau klik bidak → klik lingkaran target yang bercahaya
-  - Kamera: seret area kosong untuk putar, scroll untuk zoom
-  - Klik tombol Reset untuk mengulang permainan
 
-- **Jalankan di lokal**:
-  1) Dengan ekstensi Live Server (VS Code): buka folder `unik-3d-catur/` lalu "Open with Live Server"
-  2) Dengan server ringan:
+**It's your turn to move! Choose one from the following table**
 
-```bash
-npm i -D http-server
-npx http-server -c-1 -p 5173 unik-3d-catur
-# Buka di browser
-http://localhost:5173
-```
-
-- **Kode sumber**: lihat folder `unik-3d-catur/`
-- **Catatan**: Efek glow memanfaatkan WebGL 2; promosi otomatis ke Queen untuk saat ini.
-=======
+| FROM | TO (Click to create an issue) |
+|------|-------------------------------|
+| **A2** | [A3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20A2%20to%20A3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [A4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20A2%20to%20A4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **B1** | [A3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B1%20to%20A3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [C3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B1%20to%20C3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **B2** | [B3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B2%20to%20B3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [B4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B2%20to%20B4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **C2** | [C3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20C2%20to%20C3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [C4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20C2%20to%20C4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **D2** | [D3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20D2%20to%20D3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [D4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20D2%20to%20D4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **E2** | [E3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20E2%20to%20E3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [E4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20E2%20to%20E4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **F2** | [F3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20F2%20to%20F3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [F4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20F2%20to%20F4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **G1** | [F3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G1%20to%20F3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [H3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G1%20to%20H3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **G2** | [G3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G2%20to%20G3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [G4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G2%20to%20G4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **H2** | [H3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20H2%20to%20H3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [H4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20H2%20to%20H4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+<!-- END CHESS BOARD -->
+>>>>>>> main

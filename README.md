@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=14F195&width=550&lines=Selamat+Datang+di+GitHub+saya!;Calon+developer+yang+lagi+belajar;Python+%7C+CSS+%7C+HTML" alt="Typing SVG" />
 </p>
 
-<h2 align="left">Tentang saya</h2>
-
-###
-
-<p align="left">Di GitHub ini, kamu akan menemukan proyek-proyek sederhana, tugas-tugas latihan, dan eksperimen kode yang saya buat selama proses belajar. Saya percaya bahwa cara terbaik untuk belajar adalah dengan mencoba, dan saya senang membagikan perjalanan saya di sini.<br><br>🌱 Sedang belajar: "Python,Css,Html"<br><br>📫 Hubungi saya di: "hangood@uti.ac.id"</p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###

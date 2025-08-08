@@ -49,3 +49,9 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mfrnudin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### ♟️ Main Catur di README
+
+<!-- BEGIN CHESS BOARD -->
+Papan catur sedang diinisialisasi... Buat issue dengan judul "Chess: Start new game" untuk memulai.
+<!-- END CHESS BOARD -->

@@ -23,12 +23,6 @@
 <div align="center">
 </div>
 
-### ♟️ Main Catur
-
-<!-- BEGIN CHESS BOARD -->
-This is an open chess game in the README. It's your turn to play! Move a white piece.
-
-
 |  |  |  |  |  |  |  |  |  |  |
 |-----|---|---|---|---|---|---|---|---|-----|
 |  | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |  |

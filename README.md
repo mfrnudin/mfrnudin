@@ -23,8 +23,6 @@
 <div align="center">
 </div>
 
-###
-
 ### ♟️ Catur 3D Neon
 
 Bangun dan mainkan catur 3D bergaya neon (glow) dengan papan rounded dan kontrol kamera yang halus.
@@ -58,3 +56,4 @@ http://localhost:5173
 
 - **Kode sumber**: lihat folder `unik-3d-catur/`
 - **Catatan**: Efek glow memanfaatkan WebGL 2; promosi otomatis ke Queen untuk saat ini.
+=======

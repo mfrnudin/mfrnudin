@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   handle-chess:
-    if: github.event_name == 'workflow_dispatch' || startsWith(github.event.issue.title, 'Chess:') || startsWith(github.event.issue.title, 'chess:')
+    if: github.event_name == 'workflow_dispatch' || (github.event_name == 'issues' && (startsWith(github.event.issue.title, 'Chess:') || startsWith(github.event.issue.title, 'chess:')))
     runs-on: ubuntu-latest
     steps:
       - name: Checkout

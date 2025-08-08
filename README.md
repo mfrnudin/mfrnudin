@@ -26,7 +26,7 @@
 ### ♟️ Main Catur
 
 <!-- BEGIN CHESS BOARD -->
-This is an open chess game in the README. It's your turn to play! Move a black piece.
+This is an open chess game in the README. It's your turn to play! Move a white piece.
 
 
 |     | A | B | C | D | E | F | G | H |     |
@@ -36,9 +36,9 @@ This is an open chess game in the README. It's your turn to play! Move a black p
 | **6** | · | · | · | · | · | · | · | · | **6** |
 | **5** | · | · | · | · | · | · | · | · | **5** |
 | **4** | · | · | · | · | · | · | · | · | **4** |
-| **3** | · | · | ♘ | · | · | · | · | · | **3** |
+| **3** | · | · | · | · | · | · | · | · | **3** |
 | **2** | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | **2** |
-| **1** | ♖ | · | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ | **1** |
+| **1** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ | **1** |
 |     | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |     |
 
 
@@ -46,15 +46,15 @@ This is an open chess game in the README. It's your turn to play! Move a black p
 
 | FROM | TO (Click to create an issue) |
 |------|-------------------------------|
-| **A7** | [A5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20A7%20to%20A5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [A6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20A7%20to%20A6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **B7** | [B5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B7%20to%20B5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [B6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B7%20to%20B6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **B8** | [A6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B8%20to%20A6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [C6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B8%20to%20C6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **C7** | [C5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20C7%20to%20C5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [C6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20C7%20to%20C6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **D7** | [D5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20D7%20to%20D5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [D6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20D7%20to%20D6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **E7** | [E5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20E7%20to%20E5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [E6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20E7%20to%20E6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **F7** | [F5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20F7%20to%20F5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [F6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20F7%20to%20F6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **G7** | [G5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G7%20to%20G5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [G6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G7%20to%20G6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **G8** | [F6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G8%20to%20F6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [H6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G8%20to%20H6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **H7** | [H5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20H7%20to%20H5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [H6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20H7%20to%20H6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **A2** | [A3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20A2%20to%20A3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [A4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20A2%20to%20A4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **B1** | [A3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B1%20to%20A3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [C3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B1%20to%20C3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **B2** | [B3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B2%20to%20B3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [B4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B2%20to%20B4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **C2** | [C3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20C2%20to%20C3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [C4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20C2%20to%20C4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **D2** | [D3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20D2%20to%20D3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [D4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20D2%20to%20D4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **E2** | [E3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20E2%20to%20E3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [E4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20E2%20to%20E4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **F2** | [F3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20F2%20to%20F3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [F4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20F2%20to%20F4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **G1** | [F3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G1%20to%20F3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [H3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G1%20to%20H3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **G2** | [G3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G2%20to%20G3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [G4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G2%20to%20G4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
+| **H2** | [H3](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20H2%20to%20H3&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [H4](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20H2%20to%20H4&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
 <!-- END CHESS BOARD -->
 >>>>>>> main

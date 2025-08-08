@@ -1,5 +1,9 @@
 <h1 align="left">Hey 👋 Brooooo</h1>
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=14F195&width=550&lines=Selamat+Datang+di+GitHub+saya!;Calon+developer+yang+lagi+belajar;Python+%7C+CSS+%7C+HTML" alt="Typing SVG" />
+</p>
+
 ###
 
 <p align="left">Saya adalah seorang calon developer. Saat ini, saya sedang aktif belajar dan mengeksplorasi dunia [ Python,CSS,Html ].</p>

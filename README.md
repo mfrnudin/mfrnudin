@@ -25,37 +25,36 @@
 
 ###
 
-### ♟️ Main Catur
+### ♟️ Catur 3D Neon
 
-<!-- BEGIN CHESS BOARD -->
-This is an open chess game in the README. It's your turn to play! Move a black piece.
+Bangun dan mainkan catur 3D bergaya neon (glow) dengan papan rounded dan kontrol kamera yang halus.
 
+![three.js](https://img.shields.io/badge/three.js-0.161-0ff?style=for-the-badge&logo=three.js&logoColor=white&labelColor=111)
+![chess.js](https://img.shields.io/badge/chess.js-1.0.0-ff00ff?style=for-the-badge&logo=javascript&logoColor=white&labelColor=111)
+![webgl](https://img.shields.io/badge/WebGL-2.0-00ffaa?style=for-the-badge&logo=webgl&logoColor=white&labelColor=111)
 
-|     | A | B | C | D | E | F | G | H |     |
-|-----|---|---|---|---|---|---|---|---|-----|
-| **8** | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ | **8** |
-| **7** | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | **7** |
-| **6** | · | · | · | · | · | · | · | · | **6** |
-| **5** | · | · | · | · | · | · | · | · | **5** |
-| **4** | · | · | · | · | · | · | · | · | **4** |
-| **3** | ♙ | · | · | · | · | · | · | · | **3** |
-| **2** | · | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | **2** |
-| **1** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ | **1** |
-|     | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |     |
+- **Fitur**:
+  - Glow neon pada papan dan highlight target langkah
+  - Bidak drag‑and‑drop + highlight langkah legal (chess.js)
+  - Kamera orbit halus (putar, zoom) dengan OrbitControls
+  - Tombol Reset, indikator giliran, promosi pion otomatis → Queen
 
+- **Kontrol (singkat)**:
+  - Seret bidak untuk memindahkan
+  - Atau klik bidak → klik lingkaran target yang bercahaya
+  - Kamera: seret area kosong untuk putar, scroll untuk zoom
+  - Klik tombol Reset untuk mengulang permainan
 
-**It's your turn to move! Choose one from the following table**
+- **Jalankan di lokal**:
+  1) Dengan ekstensi Live Server (VS Code): buka folder `unik-3d-catur/` lalu "Open with Live Server"
+  2) Dengan server ringan:
 
-| FROM | TO (Click to create an issue) |
-|------|-------------------------------|
-| **A7** | [A5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20A7%20to%20A5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [A6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20A7%20to%20A6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **B7** | [B5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B7%20to%20B5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [B6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B7%20to%20B6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **B8** | [A6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B8%20to%20A6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [C6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20B8%20to%20C6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **C7** | [C5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20C7%20to%20C5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [C6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20C7%20to%20C6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **D7** | [D5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20D7%20to%20D5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [D6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20D7%20to%20D6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **E7** | [E5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20E7%20to%20E5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [E6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20E7%20to%20E6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **F7** | [F5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20F7%20to%20F5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [F6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20F7%20to%20F6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **G7** | [G5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G7%20to%20G5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [G6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G7%20to%20G6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **G8** | [F6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G8%20to%20F6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [H6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20G8%20to%20H6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-| **H7** | [H5](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20H7%20to%20H5&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.), [H6](https://github.com/mfrnudin/mfrnudin/issues/new?title=Chess%3A%20Move%20H7%20to%20H6&body=Please%20do%20not%20change%20the%20title.%20Just%20click%20%22Submit%20new%20issue%22.) |
-<!-- END CHESS BOARD -->
+```bash
+npm i -D http-server
+npx http-server -c-1 -p 5173 unik-3d-catur
+# Buka di browser
+http://localhost:5173
+```
+
+- **Kode sumber**: lihat folder `unik-3d-catur/`
+- **Catatan**: Efek glow memanfaatkan WebGL 2; promosi otomatis ke Queen untuk saat ini.

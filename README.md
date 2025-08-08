@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=14F195&width=550&lines=Selamat+Datang+di+GitHub+saya!;Calon+developer+yang+lagi+belajar;Python+%7C+CSS+%7C+HTML" alt="Typing SVG" />
 </p>
 
-<h2 align="left">I code with</h2>
-
 ###
 
 <div align="left">

@@ -29,10 +29,9 @@
 
 ###
 
-### ♟️ Main Catur di README
+### ♟️ Main Catur
 
 <!-- BEGIN CHESS BOARD -->
-This is an open chess game in the README. It's your turn to play! Move a white piece.
 
 
 |     | A | B | C | D | E | F | G | H |     |

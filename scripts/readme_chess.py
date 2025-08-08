@@ -102,8 +102,8 @@ def board_table(board: chess.Board) -> str:
 def legal_moves_links(board: chess.Board, repo: str, limit: int = 60) -> str:
     by_from = {}
     for mv in board.legal_moves:
-        from_sq = chess.square_name(mv.from_).upper()
-        to_sq = chess.square_name(mv.to).upper()
+        from_sq = chess.square_name(mv.from_square).upper()
+        to_sq = chess.square_name(mv.to_square).upper()
         by_from.setdefault(from_sq, []).append(to_sq)
     lines = ["", "**It's your turn to move! Choose one from the following table**", "", "| FROM | TO (Click to create an issue) |", "|------|-------------------------------|"]
     count = 0

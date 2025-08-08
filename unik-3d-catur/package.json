@@ -1,0 +1,11 @@
+{
+  "name": "unik-3d-catur",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "http-server -c-1 -p 5173"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

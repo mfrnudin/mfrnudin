@@ -14,8 +14,4 @@
 |  | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |  |
 |  |  |  |  |  |  |  |
 
-###
 
-<img src="https://raw.githubusercontent.com/Mfrnudin/Mfrnudin/output/snake.svg" alt="Snake animation" />
-
-###
